@@ -119,6 +119,7 @@ new.head()
 ```
 
 ![alt text](373133355-500bf66c-5ac8-4a63-a059-aa93ebce13ae.png)
+
 **RESULT:**
 
 Thus, the Implementation of the Recommendation System for the given dataset is completed successfully.
